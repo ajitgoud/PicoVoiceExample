@@ -13,7 +13,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PicovoiceExample">
         <activity
-            android:name=".MainActivity"
+            android:name=".WakeWordActivity"
             android:exported="true"
             android:theme="@style/Theme.PicovoiceExample">
             <intent-filter>
