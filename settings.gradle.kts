@@ -21,5 +21,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "PicovoiceExample"
 include(":wakeword")
-include(":speechtointent")
-include(":speechtotext")
